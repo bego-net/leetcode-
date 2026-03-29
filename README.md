@@ -7,8 +7,13 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
