@@ -13,6 +13,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
@@ -38,4 +40,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
