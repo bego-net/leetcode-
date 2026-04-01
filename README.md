@@ -23,6 +23,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
@@ -44,4 +45,5 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
