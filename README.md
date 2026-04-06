@@ -67,4 +67,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bego-net/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bego-net/leetcode-/tree/master/0162-find-peak-element) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/bego-net/leetcode-/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
