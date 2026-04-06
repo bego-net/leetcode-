@@ -71,4 +71,5 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/bego-net/leetcode-/tree/master/0180-consecutive-numbers) |
+| [0182-duplicate-emails](https://github.com/bego-net/leetcode-/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
