@@ -72,4 +72,12 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0180-consecutive-numbers](https://github.com/bego-net/leetcode-/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/bego-net/leetcode-/tree/master/0182-duplicate-emails) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
