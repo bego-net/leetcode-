@@ -6,6 +6,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bego-net/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
@@ -65,6 +66,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bego-net/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bego-net/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bego-net/leetcode-/tree/master/0162-find-peak-element) |
 ## Database
@@ -80,4 +82,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bego-net/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
