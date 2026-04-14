@@ -7,6 +7,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bego-net/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
@@ -86,4 +87,12 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bego-net/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
