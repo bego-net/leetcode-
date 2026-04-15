@@ -27,6 +27,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
@@ -50,6 +51,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
 ## Stack
@@ -95,4 +97,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
