@@ -7,6 +7,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bego-net/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/bego-net/leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bego-net/leetcode-/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
@@ -96,11 +97,13 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bego-net/leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bego-net/leetcode-/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bego-net/leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 ## Recursion
 |  |
