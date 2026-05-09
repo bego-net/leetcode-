@@ -61,6 +61,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/bego-net/leetcode-/tree/master/0155-min-stack) |
 ## Matrix
 |  |
 | ------- |
@@ -110,4 +111,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/bego-net/leetcode-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
