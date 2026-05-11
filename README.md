@@ -60,11 +60,13 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
+| [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/bego-net/leetcode-/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +90,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -116,6 +119,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
+| [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 ## Greedy
 |  |
 | ------- |
