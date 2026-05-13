@@ -18,6 +18,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bego-net/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bego-net/leetcode-/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
@@ -47,6 +48,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +90,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0004-median-of-two-sorted-arrays](https://github.com/bego-net/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bego-net/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bego-net/leetcode-/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 ## Database
 |  |
 | ------- |
@@ -171,4 +174,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
