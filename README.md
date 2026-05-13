@@ -138,10 +138,12 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
 ## Union-Find
 |  |
 | ------- |
@@ -154,4 +156,12 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
