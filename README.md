@@ -28,6 +28,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
+| [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/bego-net/leetcode-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
@@ -133,6 +135,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bego-net/leetcode-/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/bego-net/leetcode-/tree/master/0225-implement-stack-using-queues) |
 ## Depth-First Search
 |  |
@@ -164,4 +167,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
