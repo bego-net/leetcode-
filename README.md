@@ -15,6 +15,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bego-net/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bego-net/leetcode-/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
@@ -29,6 +30,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
 |  |
@@ -100,6 +102,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
@@ -180,4 +183,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
