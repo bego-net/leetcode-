@@ -81,6 +81,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bego-net/leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bego-net/leetcode-/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
@@ -132,6 +133,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0016-3sum-closest](https://github.com/bego-net/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bego-net/leetcode-/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 ## Greedy
 |  |
@@ -215,4 +218,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/bego-net/leetcode-/tree/master/0164-maximum-gap) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
