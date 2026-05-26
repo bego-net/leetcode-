@@ -112,6 +112,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/bego-net/leetcode-/tree/master/0007-reverse-integer) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bego-net/leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
