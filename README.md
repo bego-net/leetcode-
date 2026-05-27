@@ -37,6 +37,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
 ## Stack
 |  |
 | ------- |
