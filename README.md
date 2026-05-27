@@ -25,6 +25,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,6 +93,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 ## Number Theory
 |  |
 | ------- |
