@@ -25,6 +25,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 ## Backtracking
 |  |
@@ -37,6 +38,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
@@ -107,6 +109,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bego-net/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bego-net/leetcode-/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -122,11 +125,13 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/bego-net/leetcode-/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
@@ -147,6 +152,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0016-3sum-closest](https://github.com/bego-net/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/bego-net/leetcode-/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
