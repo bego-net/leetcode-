@@ -181,12 +181,14 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bego-net/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
 ## Union-Find
@@ -226,11 +228,13 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bego-net/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bego-net/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Bucket Sort
 |  |
