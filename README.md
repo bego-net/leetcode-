@@ -20,6 +20,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bego-net/leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bego-net/leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/bego-net/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bego-net/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bego-net/leetcode-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/bego-net/leetcode-/tree/master/0164-maximum-gap) |
@@ -55,6 +56,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bego-net/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bego-net/leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/bego-net/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bego-net/leetcode-/tree/master/0198-house-robber) |
 ## Queue
 |  |
