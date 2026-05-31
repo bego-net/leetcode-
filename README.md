@@ -59,6 +59,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bego-net/leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/bego-net/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bego-net/leetcode-/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 ## Queue
 |  |
 | ------- |
@@ -135,6 +136,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bego-net/leetcode-/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
@@ -173,6 +175,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
 | ------- |
