@@ -139,6 +139,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/bego-net/leetcode-/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -262,4 +263,12 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bego-net/leetcode-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bego-net/leetcode-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
