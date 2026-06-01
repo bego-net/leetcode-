@@ -37,6 +37,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bego-net/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bego-net/leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/bego-net/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bego-net/leetcode-/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
@@ -88,6 +90,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0065-valid-number](https://github.com/bego-net/leetcode-/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/bego-net/leetcode-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/bego-net/leetcode-/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
