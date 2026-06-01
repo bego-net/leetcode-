@@ -90,6 +90,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0065-valid-number](https://github.com/bego-net/leetcode-/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/bego-net/leetcode-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/bego-net/leetcode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/bego-net/leetcode-/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
@@ -164,6 +165,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0016-3sum-closest](https://github.com/bego-net/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bego-net/leetcode-/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/bego-net/leetcode-/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/bego-net/leetcode-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/bego-net/leetcode-/tree/master/0189-rotate-array) |
