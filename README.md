@@ -28,6 +28,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0198-house-robber](https://github.com/bego-net/leetcode-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
@@ -63,6 +64,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/bego-net/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bego-net/leetcode-/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 ## Queue
 |  |
@@ -115,6 +117,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0073-set-matrix-zeroes](https://github.com/bego-net/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 ## Monotonic Stack
 |  |
