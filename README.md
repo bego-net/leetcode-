@@ -136,6 +136,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bego-net/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/bego-net/leetcode-/tree/master/0367-valid-perfect-square) |
 ## Database
 |  |
 | ------- |
@@ -156,6 +157,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/bego-net/leetcode-/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/bego-net/leetcode-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
