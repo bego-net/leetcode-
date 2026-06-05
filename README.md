@@ -40,6 +40,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0306-additive-number](https://github.com/bego-net/leetcode-/tree/master/0306-additive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/bego-net/leetcode-/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 ## Stack
 |  |
