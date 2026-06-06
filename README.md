@@ -225,6 +225,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,6 +274,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bego-net/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -280,6 +282,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bego-net/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -297,6 +300,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Brainteaser
 |  |
 | ------- |
