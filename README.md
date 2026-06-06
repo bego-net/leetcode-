@@ -18,6 +18,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bego-net/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bego-net/leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bego-net/leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/bego-net/leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -47,6 +48,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/bego-net/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/bego-net/leetcode-/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
@@ -64,6 +66,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bego-net/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bego-net/leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/bego-net/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bego-net/leetcode-/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
@@ -99,6 +102,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0125-valid-palindrome](https://github.com/bego-net/leetcode-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/bego-net/leetcode-/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/bego-net/leetcode-/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
@@ -252,6 +256,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 ## Prefix Sum
 |  |
@@ -304,4 +309,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
