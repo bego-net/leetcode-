@@ -34,6 +34,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
+| [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 ## Backtracking
 |  |
@@ -72,6 +73,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0198-house-robber](https://github.com/bego-net/leetcode-/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
+| [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 ## Queue
 |  |
