@@ -30,6 +30,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0198-house-robber](https://github.com/bego-net/leetcode-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
@@ -180,6 +182,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bego-net/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
 |  |
@@ -201,6 +204,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0016-3sum-closest](https://github.com/bego-net/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/bego-net/leetcode-/tree/master/0164-maximum-gap) |
+| [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 ## Recursion
@@ -327,4 +331,20 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
