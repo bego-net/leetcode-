@@ -159,6 +159,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0182-duplicate-emails](https://github.com/bego-net/leetcode-/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/bego-net/leetcode-/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/bego-net/leetcode-/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/bego-net/leetcode-/tree/master/0197-rising-temperature) |
 ## Math
 |  |
 | ------- |
