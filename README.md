@@ -13,6 +13,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0031-next-permutation](https://github.com/bego-net/leetcode-/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bego-net/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bego-net/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/bego-net/leetcode-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
@@ -104,6 +106,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/bego-net/leetcode-/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/bego-net/leetcode-/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
@@ -207,6 +210,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0015-3sum](https://github.com/bego-net/leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bego-net/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/bego-net/leetcode-/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
