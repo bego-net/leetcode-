@@ -14,6 +14,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/bego-net/leetcode-/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/bego-net/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/bego-net/leetcode-/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/bego-net/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/bego-net/leetcode-/tree/master/0306-additive-number) |
