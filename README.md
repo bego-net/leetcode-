@@ -36,6 +36,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
+| [0284-peeking-iterator](https://github.com/bego-net/leetcode-/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -240,6 +241,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0155-min-stack](https://github.com/bego-net/leetcode-/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/bego-net/leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/bego-net/leetcode-/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 ## Depth-First Search
 |  |
@@ -368,4 +370,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/bego-net/leetcode-/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
