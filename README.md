@@ -59,6 +59,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0127-word-ladder](https://github.com/bego-net/leetcode-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bego-net/leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
@@ -122,6 +123,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/bego-net/leetcode-/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bego-net/leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
@@ -176,6 +178,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0007-reverse-integer](https://github.com/bego-net/leetcode-/tree/master/0007-reverse-integer) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bego-net/leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/bego-net/leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bego-net/leetcode-/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
