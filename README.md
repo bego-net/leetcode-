@@ -47,6 +47,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/bego-net/leetcode-/tree/master/0051-n-queens) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bego-net/leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/bego-net/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/bego-net/leetcode-/tree/master/0306-additive-number) |
@@ -73,6 +74,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0072-edit-distance](https://github.com/bego-net/leetcode-/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/bego-net/leetcode-/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bego-net/leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bego-net/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -304,6 +306,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bego-net/leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bego-net/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -315,6 +318,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bego-net/leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bego-net/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -338,6 +342,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bego-net/leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
