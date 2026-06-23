@@ -41,6 +41,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bego-net/leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
+| [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 ## Queue
 |  |
 | ------- |
@@ -190,6 +192,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0292-nim-game](https://github.com/bego-net/leetcode-/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/bego-net/leetcode-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 ## Bit Manipulation
 |  |
 | ------- |
