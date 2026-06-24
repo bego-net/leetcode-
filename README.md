@@ -130,6 +130,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0166-fraction-to-recurring-decimal](https://github.com/bego-net/leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bego-net/leetcode-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/bego-net/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
@@ -248,6 +249,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0155-min-stack](https://github.com/bego-net/leetcode-/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bego-net/leetcode-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/bego-net/leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0284-peeking-iterator](https://github.com/bego-net/leetcode-/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
@@ -259,6 +261,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0129-sum-root-to-leaf-numbers](https://github.com/bego-net/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bego-net/leetcode-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -298,6 +301,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bego-net/leetcode-/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Prefix Sum
 |  |
 | ------- |
