@@ -36,6 +36,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/bego-net/leetcode-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/bego-net/leetcode-/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
@@ -219,6 +220,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0165-compare-version-numbers](https://github.com/bego-net/leetcode-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bego-net/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bego-net/leetcode-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/bego-net/leetcode-/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
