@@ -139,6 +139,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/bego-net/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0306-additive-number](https://github.com/bego-net/leetcode-/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -260,6 +261,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0225-implement-stack-using-queues](https://github.com/bego-net/leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0284-peeking-iterator](https://github.com/bego-net/leetcode-/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,6 +275,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/bego-net/leetcode-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 ## Breadth-First Search
 |  |
@@ -282,6 +285,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -328,6 +332,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/bego-net/leetcode-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
@@ -340,6 +345,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/bego-net/leetcode-/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 ## Bucket Sort
 |  |
