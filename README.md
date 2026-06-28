@@ -40,6 +40,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0283-move-zeroes](https://github.com/bego-net/leetcode-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/bego-net/leetcode-/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/bego-net/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bego-net/leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -89,6 +90,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0198-house-robber](https://github.com/bego-net/leetcode-/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
+| [0300-longest-increasing-subsequence](https://github.com/bego-net/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
@@ -170,6 +172,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bego-net/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/bego-net/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/bego-net/leetcode-/tree/master/0367-valid-perfect-square) |
 ## Database
 |  |
