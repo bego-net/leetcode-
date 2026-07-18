@@ -132,6 +132,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/bego-net/leetcode-/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/bego-net/leetcode-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/bego-net/leetcode-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bego-net/leetcode-/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bego-net/leetcode-/tree/master/0115-distinct-subsequences) |
@@ -201,6 +202,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bego-net/leetcode-/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/bego-net/leetcode-/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bego-net/leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bego-net/leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
@@ -217,6 +219,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bego-net/leetcode-/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/bego-net/leetcode-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -310,6 +313,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bego-net/leetcode-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 ## Number Theory
