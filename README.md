@@ -11,6 +11,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0016-3sum-closest](https://github.com/bego-net/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bego-net/leetcode-/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/bego-net/leetcode-/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
@@ -52,6 +53,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/bego-net/leetcode-/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/bego-net/leetcode-/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bego-net/leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
@@ -61,6 +63,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bego-net/leetcode-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bego-net/leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -163,6 +166,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bego-net/leetcode-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/bego-net/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/bego-net/leetcode-/tree/master/0200-number-of-islands) |
