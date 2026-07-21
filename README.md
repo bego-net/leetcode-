@@ -188,6 +188,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bego-net/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/bego-net/leetcode-/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/bego-net/leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 ## Database
 |  |
 | ------- |
@@ -436,4 +437,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/bego-net/leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
