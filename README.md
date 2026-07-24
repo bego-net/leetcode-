@@ -217,6 +217,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/bego-net/leetcode-/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/bego-net/leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bego-net/leetcode-/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/bego-net/leetcode-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
@@ -271,6 +272,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/bego-net/leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bego-net/leetcode-/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
