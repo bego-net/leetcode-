@@ -272,6 +272,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/bego-net/leetcode-/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/bego-net/leetcode-/tree/master/0326-power-of-three) |
@@ -401,6 +402,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bego-net/leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/bego-net/leetcode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bego-net/leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Binary Search Tree
 |  |
