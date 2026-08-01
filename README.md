@@ -22,6 +22,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bego-net/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bego-net/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bego-net/leetcode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/bego-net/leetcode-/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bego-net/leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -232,6 +233,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bego-net/leetcode-/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/bego-net/leetcode-/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/bego-net/leetcode-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
