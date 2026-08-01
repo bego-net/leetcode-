@@ -77,6 +77,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0160-intersection-of-two-linked-lists](https://github.com/bego-net/leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bego-net/leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/bego-net/leetcode-/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/bego-net/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/bego-net/leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
@@ -150,6 +151,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0165-compare-version-numbers](https://github.com/bego-net/leetcode-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bego-net/leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/bego-net/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bego-net/leetcode-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
