@@ -234,6 +234,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0067-add-binary](https://github.com/bego-net/leetcode-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/bego-net/leetcode-/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/bego-net/leetcode-/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/bego-net/leetcode-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -243,6 +244,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bego-net/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/bego-net/leetcode-/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bego-net/leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
