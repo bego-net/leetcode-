@@ -80,6 +80,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0205-isomorphic-strings](https://github.com/bego-net/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/bego-net/leetcode-/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/bego-net/leetcode-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -106,6 +107,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0213-house-robber-ii](https://github.com/bego-net/leetcode-/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/bego-net/leetcode-/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/bego-net/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
@@ -126,6 +128,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/bego-net/leetcode-/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bego-net/leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Monotonic Queue
@@ -226,6 +229,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bego-net/leetcode-/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/bego-net/leetcode-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/bego-net/leetcode-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/bego-net/leetcode-/tree/master/0326-power-of-three) |
