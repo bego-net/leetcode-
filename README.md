@@ -77,6 +77,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0160-intersection-of-two-linked-lists](https://github.com/bego-net/leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/bego-net/leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/bego-net/leetcode-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/bego-net/leetcode-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/bego-net/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/bego-net/leetcode-/tree/master/0242-valid-anagram) |
@@ -225,6 +226,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0166-fraction-to-recurring-decimal](https://github.com/bego-net/leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/bego-net/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bego-net/leetcode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/bego-net/leetcode-/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
@@ -270,6 +272,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0165-compare-version-numbers](https://github.com/bego-net/leetcode-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bego-net/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bego-net/leetcode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/bego-net/leetcode-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/bego-net/leetcode-/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bego-net/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
