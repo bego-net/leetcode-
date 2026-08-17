@@ -50,6 +50,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bego-net/leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
@@ -87,6 +88,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
@@ -208,6 +210,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bego-net/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/bego-net/leetcode-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/bego-net/leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 ## Database
@@ -281,6 +284,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bego-net/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -295,6 +299,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0268-missing-number](https://github.com/bego-net/leetcode-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/bego-net/leetcode-/tree/master/0414-third-maximum-number) |
 ## Recursion
 |  |
