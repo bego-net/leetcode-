@@ -186,6 +186,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0173-binary-search-tree-iterator](https://github.com/bego-net/leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/bego-net/leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -352,6 +353,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/bego-net/leetcode-/tree/master/0404-sum-of-left-leaves) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
+| [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -420,6 +422,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/bego-net/leetcode-/tree/master/0404-sum-of-left-leaves) |
+| [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,6 +438,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/bego-net/leetcode-/tree/master/0404-sum-of-left-leaves) |
+| [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -459,6 +463,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0173-binary-search-tree-iterator](https://github.com/bego-net/leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 ## Brainteaser
 |  |
 | ------- |
