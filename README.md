@@ -455,6 +455,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0203-remove-linked-list-elements](https://github.com/bego-net/leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bego-net/leetcode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bego-net/leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/bego-net/leetcode-/tree/master/0328-odd-even-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
