@@ -90,6 +90,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
 |  |
@@ -249,6 +250,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0367-valid-perfect-square](https://github.com/bego-net/leetcode-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -514,4 +516,12 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bego-net/leetcode-/tree/master/0169-majority-element) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
