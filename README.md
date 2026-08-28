@@ -120,6 +120,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/bego-net/leetcode-/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 ## Queue
 |  |
 | ------- |
@@ -264,6 +265,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/bego-net/leetcode-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -327,6 +329,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bego-net/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
 ## Design
 |  |
@@ -490,6 +493,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 ## Binary Indexed Tree
 |  |
 | ------- |
