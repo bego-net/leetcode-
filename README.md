@@ -174,6 +174,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bego-net/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/bego-net/leetcode-/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/bego-net/leetcode-/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
@@ -187,6 +188,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0173-binary-search-tree-iterator](https://github.com/bego-net/leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/bego-net/leetcode-/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/bego-net/leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/bego-net/leetcode-/tree/master/0394-decode-string) |
 | [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 ## Matrix
 |  |
@@ -319,6 +321,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0233-number-of-digit-one](https://github.com/bego-net/leetcode-/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/bego-net/leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bego-net/leetcode-/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/bego-net/leetcode-/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
