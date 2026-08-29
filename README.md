@@ -180,6 +180,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
+| [0434-number-of-segments-in-a-string](https://github.com/bego-net/leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 ## Stack
 |  |
