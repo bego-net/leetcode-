@@ -91,6 +91,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
+| [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
 |  |
@@ -178,6 +179,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0394-decode-string](https://github.com/bego-net/leetcode-/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 ## Stack
 |  |
@@ -375,6 +377,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/bego-net/leetcode-/tree/master/0404-sum-of-left-leaves) |
+| [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
 ## Union-Find
 |  |
@@ -535,4 +538,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
