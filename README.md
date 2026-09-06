@@ -56,6 +56,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/bego-net/leetcode-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 ## Backtracking
 |  |
@@ -68,6 +69,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/bego-net/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/bego-net/leetcode-/tree/master/0306-additive-number) |
+| [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +126,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
 ## Queue
 |  |
 | ------- |
@@ -547,4 +550,12 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
