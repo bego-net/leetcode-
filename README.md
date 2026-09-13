@@ -93,6 +93,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0290-word-pattern](https://github.com/bego-net/leetcode-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
 | [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
@@ -182,6 +183,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0306-additive-number](https://github.com/bego-net/leetcode-/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bego-net/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/bego-net/leetcode-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/bego-net/leetcode-/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -276,6 +278,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0318-maximum-product-of-word-lengths](https://github.com/bego-net/leetcode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/bego-net/leetcode-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
@@ -321,6 +324,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bego-net/leetcode-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
 ## Recursion
