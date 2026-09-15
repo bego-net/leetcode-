@@ -52,6 +52,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bego-net/leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0391-perfect-rectangle](https://github.com/bego-net/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/bego-net/leetcode-/tree/master/0414-third-maximum-number) |
@@ -94,6 +95,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/bego-net/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bego-net/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
 | [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
@@ -265,6 +267,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0342-power-of-four](https://github.com/bego-net/leetcode-/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/bego-net/leetcode-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
+| [0391-perfect-rectangle](https://github.com/bego-net/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
 ## Bit Manipulation
@@ -435,6 +438,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/bego-net/leetcode-/tree/master/0391-perfect-rectangle) |
 ## Tree
 |  |
 | ------- |
@@ -524,6 +528,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/bego-net/leetcode-/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/bego-net/leetcode-/tree/master/0391-perfect-rectangle) |
 ## Ordered Set
 |  |
 | ------- |
