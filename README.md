@@ -60,6 +60,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/bego-net/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bego-net/leetcode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Backtracking
@@ -220,6 +221,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0221-maximal-square](https://github.com/bego-net/leetcode-/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bego-net/leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -416,6 +418,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0067-add-binary](https://github.com/bego-net/leetcode-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
 ## Number Theory
 |  |
 | ------- |
