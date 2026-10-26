@@ -52,6 +52,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bego-net/leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/bego-net/leetcode-/tree/master/0376-wiggle-subsequence) |
 | [0391-perfect-rectangle](https://github.com/bego-net/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
@@ -131,6 +132,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0300-longest-increasing-subsequence](https://github.com/bego-net/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/bego-net/leetcode-/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
+| [0376-wiggle-subsequence](https://github.com/bego-net/leetcode-/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/bego-net/leetcode-/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
@@ -357,6 +359,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bego-net/leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/bego-net/leetcode-/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
