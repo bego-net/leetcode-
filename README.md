@@ -75,6 +75,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0131-palindrome-partitioning](https://github.com/bego-net/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/bego-net/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/bego-net/leetcode-/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/bego-net/leetcode-/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
@@ -294,6 +295,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0371-sum-of-two-integers](https://github.com/bego-net/leetcode-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/bego-net/leetcode-/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
