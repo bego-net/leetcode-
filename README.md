@@ -65,6 +65,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -216,6 +217,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0394-decode-string](https://github.com/bego-net/leetcode-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/bego-net/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -233,6 +235,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/bego-net/leetcode-/tree/master/0496-next-greater-element-i) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +253,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0374-guess-number-higher-or-lower](https://github.com/bego-net/leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bego-net/leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bego-net/leetcode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Database
 |  |
 | ------- |
@@ -329,6 +333,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0349-intersection-of-two-arrays](https://github.com/bego-net/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bego-net/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/bego-net/leetcode-/tree/master/0392-is-subsequence) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -594,4 +599,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
