@@ -66,6 +66,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 ## Backtracking
 |  |
 | ------- |
@@ -254,6 +255,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bego-net/leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bego-net/leetcode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 ## Database
 |  |
 | ------- |
@@ -290,6 +292,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bego-net/leetcode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -353,6 +356,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bego-net/leetcode-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 ## Recursion
 |  |
 | ------- |
@@ -375,6 +379,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 ## Design
 |  |
 | ------- |
