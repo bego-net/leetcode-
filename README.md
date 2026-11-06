@@ -66,6 +66,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bego-net/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -209,6 +210,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0434-number-of-segments-in-a-string](https://github.com/bego-net/leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +224,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0394-decode-string](https://github.com/bego-net/leetcode-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/bego-net/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
+| [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Matrix
 |  |
