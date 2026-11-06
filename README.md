@@ -297,6 +297,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bego-net/leetcode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bego-net/leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bego-net/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
@@ -531,6 +532,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0206-reverse-linked-list](https://github.com/bego-net/leetcode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bego-net/leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bego-net/leetcode-/tree/master/0328-odd-even-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bego-net/leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search Tree
 |  |
 | ------- |
