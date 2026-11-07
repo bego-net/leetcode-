@@ -114,6 +114,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0496-next-greater-element-i](https://github.com/bego-net/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +167,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bego-net/leetcode-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bego-net/leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bego-net/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Monotonic Queue
 |  |
@@ -211,6 +213,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
+| [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 ## Stack
 |  |
 | ------- |
@@ -390,6 +393,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
+| [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bego-net/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
@@ -597,6 +601,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bego-net/leetcode-/tree/master/0169-majority-element) |
+| [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 ## Reservoir Sampling
 |  |
 | ------- |
