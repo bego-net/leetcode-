@@ -66,6 +66,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
@@ -114,6 +115,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0496-next-greater-element-i](https://github.com/bego-net/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 ## Dynamic Programming
 |  |
@@ -303,6 +305,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0396-rotate-function](https://github.com/bego-net/leetcode-/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/bego-net/leetcode-/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bego-net/leetcode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bego-net/leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bego-net/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -320,6 +323,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/bego-net/leetcode-/tree/master/0401-binary-watch) |
+| [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -628,4 +632,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
