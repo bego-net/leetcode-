@@ -66,6 +66,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/bego-net/leetcode-/tree/master/0648-replace-words) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [1656-design-an-ordered-stream](https://github.com/bego-net/leetcode-/tree/master/1656-design-an-ordered-stream) |
@@ -117,6 +118,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0496-next-greater-element-i](https://github.com/bego-net/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/bego-net/leetcode-/tree/master/0648-replace-words) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [1656-design-an-ordered-stream](https://github.com/bego-net/leetcode-/tree/master/1656-design-an-ordered-stream) |
 | [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
@@ -217,6 +219,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0434-number-of-segments-in-a-string](https://github.com/bego-net/leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/bego-net/leetcode-/tree/master/0648-replace-words) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 ## Stack
@@ -485,6 +488,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0139-word-break](https://github.com/bego-net/leetcode-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bego-net/leetcode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bego-net/leetcode-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0648-replace-words](https://github.com/bego-net/leetcode-/tree/master/0648-replace-words) |
 ## Prefix Sum
 |  |
 | ------- |
