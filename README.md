@@ -156,6 +156,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/bego-net/leetcode-/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Queue
 |  |
 | ------- |
@@ -334,6 +335,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/bego-net/leetcode-/tree/master/0401-binary-watch) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/bego-net/leetcode-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 ## Divide and Conquer
 |  |
@@ -461,6 +463,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0404-sum-of-left-leaves](https://github.com/bego-net/leetcode-/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/bego-net/leetcode-/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Union-Find
 |  |
 | ------- |
@@ -485,6 +488,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0207-course-schedule](https://github.com/bego-net/leetcode-/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/bego-net/leetcode-/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -660,4 +664,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bego-net/leetcode-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/bego-net/leetcode-/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
