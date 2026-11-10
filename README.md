@@ -70,6 +70,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [1656-design-an-ordered-stream](https://github.com/bego-net/leetcode-/tree/master/1656-design-an-ordered-stream) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bego-net/leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bego-net/leetcode-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -160,6 +161,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bego-net/leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bego-net/leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,6 +239,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0496-next-greater-element-i](https://github.com/bego-net/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bego-net/leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Matrix
 |  |
@@ -471,6 +474,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bego-net/leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
 | ------- |
