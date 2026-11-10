@@ -348,6 +348,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0015-3sum](https://github.com/bego-net/leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bego-net/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bego-net/leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/bego-net/leetcode-/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/bego-net/leetcode-/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
@@ -550,6 +551,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bego-net/leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bego-net/leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/bego-net/leetcode-/tree/master/0203-remove-linked-list-elements) |
