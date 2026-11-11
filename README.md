@@ -188,6 +188,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/bego-net/leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
