@@ -77,6 +77,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bego-net/leetcode-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bego-net/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bego-net/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
+| [4035-maximum-valid-split-positions-i](https://github.com/bego-net/leetcode-/tree/master/4035-maximum-valid-split-positions-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -326,6 +327,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bego-net/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bego-net/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
+| [4035-maximum-valid-split-positions-i](https://github.com/bego-net/leetcode-/tree/master/4035-maximum-valid-split-positions-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -489,6 +491,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
+| [4035-maximum-valid-split-positions-i](https://github.com/bego-net/leetcode-/tree/master/4035-maximum-valid-split-positions-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -675,4 +678,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bego-net/leetcode-/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Enumeration
+|  |
+| ------- |
+| [4035-maximum-valid-split-positions-i](https://github.com/bego-net/leetcode-/tree/master/4035-maximum-valid-split-positions-i) |
 <!---LeetCode Topics End-->
