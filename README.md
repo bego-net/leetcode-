@@ -93,6 +93,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bego-net/leetcode-/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/bego-net/leetcode-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
@@ -190,6 +191,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/bego-net/leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/bego-net/leetcode-/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
@@ -296,6 +298,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bego-net/leetcode-/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/bego-net/leetcode-/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/bego-net/leetcode-/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/bego-net/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bego-net/leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
