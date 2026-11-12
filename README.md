@@ -69,6 +69,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/bego-net/leetcode-/tree/master/0648-replace-words) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/bego-net/leetcode-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [1656-design-an-ordered-stream](https://github.com/bego-net/leetcode-/tree/master/1656-design-an-ordered-stream) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bego-net/leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -396,6 +397,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0389-find-the-difference](https://github.com/bego-net/leetcode-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bego-net/leetcode-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/bego-net/leetcode-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bego-net/leetcode-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Recursion
@@ -421,6 +423,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0397-integer-replacement](https://github.com/bego-net/leetcode-/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/bego-net/leetcode-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bego-net/leetcode-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
