@@ -446,6 +446,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bego-net/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -532,6 +533,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/bego-net/leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bego-net/leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -550,6 +552,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/bego-net/leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bego-net/leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -587,6 +590,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/bego-net/leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bego-net/leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/bego-net/leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bego-net/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
