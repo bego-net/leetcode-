@@ -162,6 +162,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0435-non-overlapping-intervals](https://github.com/bego-net/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bego-net/leetcode-/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/bego-net/leetcode-/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Queue
 |  |
 | ------- |
@@ -234,6 +235,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 | [2381-shifting-letters-ii](https://github.com/bego-net/leetcode-/tree/master/2381-shifting-letters-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/bego-net/leetcode-/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Stack
 |  |
 | ------- |
@@ -430,6 +432,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bego-net/leetcode-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bego-net/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/bego-net/leetcode-/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Design
 |  |
 | ------- |
@@ -524,6 +527,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bego-net/leetcode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2381-shifting-letters-ii](https://github.com/bego-net/leetcode-/tree/master/2381-shifting-letters-ii) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bego-net/leetcode-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/bego-net/leetcode-/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Geometry
 |  |
 | ------- |
