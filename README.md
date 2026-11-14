@@ -15,6 +15,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0037-sudoku-solver](https://github.com/bego-net/leetcode-/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/bego-net/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bego-net/leetcode-/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/bego-net/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/bego-net/leetcode-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bego-net/leetcode-/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/bego-net/leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -135,6 +136,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/bego-net/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/bego-net/leetcode-/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
@@ -241,6 +243,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bego-net/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bego-net/leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -269,6 +272,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bego-net/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/bego-net/leetcode-/tree/master/0496-next-greater-element-i) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -370,6 +374,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0018-4sum](https://github.com/bego-net/leetcode-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bego-net/leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/bego-net/leetcode-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/bego-net/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/bego-net/leetcode-/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bego-net/leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
