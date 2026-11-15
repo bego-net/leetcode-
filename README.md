@@ -70,6 +70,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/bego-net/leetcode-/tree/master/0648-replace-words) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/bego-net/leetcode-/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/bego-net/leetcode-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [1656-design-an-ordered-stream](https://github.com/bego-net/leetcode-/tree/master/1656-design-an-ordered-stream) |
