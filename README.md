@@ -72,6 +72,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0648-replace-words](https://github.com/bego-net/leetcode-/tree/master/0648-replace-words) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/bego-net/leetcode-/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1389-create-target-array-in-the-given-order](https://github.com/bego-net/leetcode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/bego-net/leetcode-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [1656-design-an-ordered-stream](https://github.com/bego-net/leetcode-/tree/master/1656-design-an-ordered-stream) |
@@ -510,6 +511,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0258-add-digits](https://github.com/bego-net/leetcode-/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/bego-net/leetcode-/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
+| [1389-create-target-array-in-the-given-order](https://github.com/bego-net/leetcode-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bego-net/leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
