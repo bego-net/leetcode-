@@ -68,6 +68,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0498-diagonal-traverse](https://github.com/bego-net/leetcode-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bego-net/leetcode-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bego-net/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0622-design-circular-queue](https://github.com/bego-net/leetcode-/tree/master/0622-design-circular-queue) |
 | [0648-replace-words](https://github.com/bego-net/leetcode-/tree/master/0648-replace-words) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/bego-net/leetcode-/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -172,6 +173,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bego-net/leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/bego-net/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/bego-net/leetcode-/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bego-net/leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
@@ -457,6 +459,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0295-find-median-from-data-stream](https://github.com/bego-net/leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/bego-net/leetcode-/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/bego-net/leetcode-/tree/master/0622-design-circular-queue) |
 | [1656-design-an-ordered-stream](https://github.com/bego-net/leetcode-/tree/master/1656-design-an-ordered-stream) |
 ## Depth-First Search
 |  |
@@ -601,6 +604,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0206-reverse-linked-list](https://github.com/bego-net/leetcode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bego-net/leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bego-net/leetcode-/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/bego-net/leetcode-/tree/master/0622-design-circular-queue) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bego-net/leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search Tree
 |  |
