@@ -483,6 +483,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/bego-net/leetcode-/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bego-net/leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
 | [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
@@ -498,6 +499,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0399-evaluate-division](https://github.com/bego-net/leetcode-/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/bego-net/leetcode-/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/bego-net/leetcode-/tree/master/0433-minimum-genetic-mutation) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bego-net/leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0765-couples-holding-hands](https://github.com/bego-net/leetcode-/tree/master/0765-couples-holding-hands) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bego-net/leetcode-/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Union-Find
@@ -570,6 +572,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/bego-net/leetcode-/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bego-net/leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
@@ -589,6 +592,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bego-net/leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/bego-net/leetcode-/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/bego-net/leetcode-/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bego-net/leetcode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0897-increasing-order-search-tree](https://github.com/bego-net/leetcode-/tree/master/0897-increasing-order-search-tree) |
 ## Bucket Sort
 |  |
