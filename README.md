@@ -205,6 +205,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0008-string-to-integer-atoi](https://github.com/bego-net/leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/bego-net/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/bego-net/leetcode-/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/bego-net/leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bego-net/leetcode-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/bego-net/leetcode-/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/bego-net/leetcode-/tree/master/0044-wildcard-matching) |
@@ -251,6 +252,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bego-net/leetcode-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bego-net/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/bego-net/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/bego-net/leetcode-/tree/master/0143-reorder-list) |
@@ -720,4 +722,8 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 |  |
 | ------- |
 | [4035-maximum-valid-split-positions-i](https://github.com/bego-net/leetcode-/tree/master/4035-maximum-valid-split-positions-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bego-net/leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
