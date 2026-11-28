@@ -77,6 +77,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/bego-net/leetcode-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1598-crawler-log-folder](https://github.com/bego-net/leetcode-/tree/master/1598-crawler-log-folder) |
 | [1656-design-an-ordered-stream](https://github.com/bego-net/leetcode-/tree/master/1656-design-an-ordered-stream) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/bego-net/leetcode-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bego-net/leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2381-shifting-letters-ii](https://github.com/bego-net/leetcode-/tree/master/2381-shifting-letters-ii) |
@@ -134,6 +135,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0648-replace-words](https://github.com/bego-net/leetcode-/tree/master/0648-replace-words) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [1656-design-an-ordered-stream](https://github.com/bego-net/leetcode-/tree/master/1656-design-an-ordered-stream) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/bego-net/leetcode-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bego-net/leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2182-construct-string-with-repeat-limit](https://github.com/bego-net/leetcode-/tree/master/2182-construct-string-with-repeat-limit) |
 ## Dynamic Programming
@@ -550,6 +552,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0209-minimum-size-subarray-sum](https://github.com/bego-net/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/bego-net/leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bego-net/leetcode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/bego-net/leetcode-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2381-shifting-letters-ii](https://github.com/bego-net/leetcode-/tree/master/2381-shifting-letters-ii) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bego-net/leetcode-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/bego-net/leetcode-/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
