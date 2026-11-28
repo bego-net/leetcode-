@@ -80,6 +80,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bego-net/leetcode-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bego-net/leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/bego-net/leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bego-net/leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2381-shifting-letters-ii](https://github.com/bego-net/leetcode-/tree/master/2381-shifting-letters-ii) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/bego-net/leetcode-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -100,6 +101,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0306-additive-number](https://github.com/bego-net/leetcode-/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/bego-net/leetcode-/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/bego-net/leetcode-/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bego-net/leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -350,6 +352,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/bego-net/leetcode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bego-net/leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bego-net/leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/bego-net/leetcode-/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bego-net/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bego-net/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -370,6 +373,7 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 | [0401-binary-watch](https://github.com/bego-net/leetcode-/tree/master/0401-binary-watch) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bego-net/leetcode-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0957-prison-cells-after-n-days](https://github.com/bego-net/leetcode-/tree/master/0957-prison-cells-after-n-days) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bego-net/leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -727,9 +731,14 @@ This repository contains my LeetCode problem solutions, written in Python. It in
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bego-net/leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [4035-maximum-valid-split-positions-i](https://github.com/bego-net/leetcode-/tree/master/4035-maximum-valid-split-positions-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bego-net/leetcode-/tree/master/0020-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bego-net/leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
